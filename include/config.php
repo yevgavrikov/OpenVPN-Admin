@@ -1,7 +1,7 @@
 <?php
 	$host = 'localhost';
 	$port = '3306';
-	$db = '';
+	$db   = 'openvpn-admin';
 	$user = '';
 	$pass = '';
 	$app_name = '';
